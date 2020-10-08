@@ -2,7 +2,7 @@
 
 ## Before contributing
 
-Welcome to [BitsCoding/DS-and-Algo!](https://github.com/BitsCoding/DS-and-Algo)
+Welcome to [BitsCoding/DS-and-Algo!](https://github.com/BitsCoding/DS-and-Algo)  
 Before sending your pull requests, make sure that you **read all the guidelines**. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/BitsCoding/DS-and-Algo/issues/new).
 
 **New implementations** are welcome! For example, new solutions for a problem with different data structure, algorithm designs or complexity.
