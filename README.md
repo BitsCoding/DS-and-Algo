@@ -30,7 +30,7 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 └── CategoryName
     └── sub_category_name
         └── problem_name
-            ├── README.md
+            ├── PROBLEM.md
             ├── CPP
             │   ├── 0001_solution.cpp
             │   └── 0002_solution.cpp
