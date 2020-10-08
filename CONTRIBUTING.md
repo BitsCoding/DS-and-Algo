@@ -2,11 +2,12 @@
 
 ## Before contributing
 
-Welcome to [BitsCoding/DS-and-Algo!](https://github.com/BitsCoding/DS-and-Algo) Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/BitsCoding/DS-and-Algo/issues/new).
+Welcome to [BitsCoding/DS-and-Algo!](https://github.com/BitsCoding/DS-and-Algo)
+Before sending your pull requests, make sure that you **read all the guidelines**. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/BitsCoding/DS-and-Algo/issues/new).
 
 **New implementations** are welcome! For example, new solutions for a problem with different data structure, algorithm designs or complexity.
 
-We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex algorithms.
+We appreciate any contribution, from fixing a grammar mistake in a comment to implementing complex algorithms or documenting the code.
 
 Please help us keep our issue list small by adding fixes: #{$ISSUE_NO} to the commit message of pull requests that resolve open issues. GitHub will use this tag to auto close the issue when the PR is merged.
 
@@ -19,7 +20,7 @@ The Contributer who opened an issue will be assigned prefered to the issue. If t
 ### Pull Requests
 Only Pull Requests **joined with an Issue** and matching the **naming-conventions** (See [Folder Structure](https://github.com/BitsCoding/DS-and-Algo#folder-structure)) will be merged!
 If there is no Issue number in the PR your PR will be closed and labeld as **spam**.
-If your PR doesn' follow the Contributing Guidelines of this Repository it will be also marked as **spam** and closed!
+If your PR doesn't follow the Contributing Guidelines of this Repository it will be also marked as **spam** and closed!
 
 ## Coding Style
 
