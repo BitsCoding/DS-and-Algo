@@ -1,4 +1,4 @@
-# Chocolate Breadown
+# Chocolate Breakdown
 
 Sakshi has a long bar of chocolate of some length `L`, and she has to distribute it to infinite number of peoples. She is a mathematician and a perfectionist, so she breaks the equal `P` length piece from the bar every time unless she can't.
 
