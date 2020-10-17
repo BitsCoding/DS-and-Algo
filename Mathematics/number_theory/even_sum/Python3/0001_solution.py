@@ -6,17 +6,17 @@ Solution of problem 'Even Sum'.
 """
 
 def even_sum(n):
-"""Calculate the sum of even number in the problem 'Even_sum'
+    """Calculate the sum of even number in the problem 'Even_sum'
 
-Parameters
-----------
-n : int
+    Parameters
+    ----------
+    n : int
 
-Returns
-------
-int
-    sum of even numbers
-"""
+    Returns
+    ------
+    int
+        sum of even numbers
+    """
     result=0
     for i in range(2, num+1):
         if i%2==0:
