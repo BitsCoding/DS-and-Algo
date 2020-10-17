@@ -5,12 +5,18 @@ Solution of problem 'Even Sum'.
 @version 1.0
 """
 
-"""
-Calculate the sum of even number in the problem 'Even_sum'
-@param n int
-@return result as sum of even numbers
-"""
 def even_sum(n):
+"""Calculate the sum of even number in the problem 'Even_sum'
+
+Parameters
+----------
+n : int
+
+Returns
+------
+int
+    sum of even numbers
+"""
     result=0
     for i in range(2, num+1):
         if i%2==0:
@@ -20,4 +26,3 @@ def even_sum(n):
 if __name__ == "__main__":
     num=int(input())
     print(even_sum(num))
-    
