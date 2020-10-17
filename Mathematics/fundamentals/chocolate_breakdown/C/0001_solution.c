@@ -1,6 +1,6 @@
 /**
  * Solution of problem 'Chocolate Breakdown'.
- * @file 001_solution.c
+ * @file 0001_solution.c
  * @author Nischay Sharma
  * @version 1.0
  * */
@@ -14,14 +14,9 @@ int main() {
     
     int L;
     int P;
-    
     scanf("%d %d ",&L,&P);
-    
     while(L>P)
-    {
         L-=P;
-    }
-    
     printf("%d ",L);
     return 0;
 }
