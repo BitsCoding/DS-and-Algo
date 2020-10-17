@@ -1,6 +1,6 @@
 /**
  * Solution of problem 'Printing a number pattern'.
- * @file 001_solution.c
+ * @file 0001_solution.c
  * @author Nischay Sharma
  * @version 1.0
  * */
@@ -9,12 +9,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-/**
- * Prints the 'number pattern' from 1 to 'n'
- * @param n int
- * @param temp int
- * @return 0.
- **/
 int main() {    
     int n;
     scanf("%d",&n);
@@ -25,7 +19,7 @@ int main() {
         temp=i; 
         for(int j=0;j<i;j++)
         {
-            printf("%d",temp);
+            printf("%d ",temp);
             temp++;
         }
         printf("\n");
