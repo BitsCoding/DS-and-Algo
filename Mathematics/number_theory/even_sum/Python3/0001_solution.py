@@ -17,10 +17,10 @@ def even_sum(n):
     int
         sum of even numbers
     """
-    result=0
+    result = 0
     for i in range(2, num+1):
-        if i%2==0:
-            result+=i 
+        if i % 2 == 0:
+            result + = i 
     return result
 
 if __name__ == "__main__":
